@@ -1,0 +1,24 @@
+type: CoreBlock
+name: "Форд"
+description: "базове ядро "
+category: effect
+health: 900
+size: 2
+
+itemCapacity: 2000
+unitCapModifier: 10
+unitType: "mega"
+incinerateNonBuildable: true
+isFirstTier: true
+squareSprite: false
+
+requirements: [
+    "iron/600"
+]
+
+research: {
+    root: true
+	planet: oct
+}
+
+alwaysUnlocked: true

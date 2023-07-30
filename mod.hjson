@@ -1,0 +1,17 @@
+name: "myndustria"
+repo: "Te_eR/myndustria"
+minGameVersion: 145.1
+version: "v0.1.4-alpha"
+
+displayName: "Myndustria"
+author: "[purple[]]Te_eR"
+subtitle: "Version: v0.1.4-alpha"
+description:
+
+'''
+[purple[]]це тест
+вроблено в Україні
+'''
+
+dependencies: []
+hideBrowser: false
