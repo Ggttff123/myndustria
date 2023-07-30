@@ -50,12 +50,9 @@ mesh: {
 }
 	
 hiddenItems: [
-    "copper"
     "lead"
     "scrap"
     "graphite"
-    "coal"
-    "titanium"
     "thorium"
     "silicon"
     "plastanium"
